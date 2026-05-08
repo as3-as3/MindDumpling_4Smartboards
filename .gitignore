@@ -1,0 +1,30 @@
+# Android Build Outputs
+/build/
+app/build/
+*.apk
+*.ap_
+*.dex
+*.class
+
+# Android Studio / IntelliJ
+.idea/
+.gradle/
+.kotlin/
+*.iml
+*.iws
+*.ipr
+/captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+
+# Gradle Wrapper
+.gradle/
+build/
+
+# Exceptions: Include the root APK
+!NeuroDumpling_v1.1.apk
+
+# OS specific
+.DS_Store
+Thumbs.db
