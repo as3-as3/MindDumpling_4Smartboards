@@ -25,6 +25,10 @@ NeuroDumpling is a professional-grade MindMapping and ConceptMapping application
 - **JSON**: Use the JSON export to backup your work or move it to another device.
 - **PNG/PDF/SVG**: Export your maps for documentation. These will be saved in your `Documents/NeuroDumpling` folder.
 
+## 💻 Desktop Companion
+Experience MindDumpling on the big screen! The desktop version offers high-end performance and professional export capabilities for Windows:
+👉 **[MindDumpling Desktop (4WIN)](https://github.com/as3-as3/MindDumpling_4WIN)**
+
 ## 🛠 Tech Stack
 - **Language**: Kotlin
 - **UI Framework**: Jetpack Compose
